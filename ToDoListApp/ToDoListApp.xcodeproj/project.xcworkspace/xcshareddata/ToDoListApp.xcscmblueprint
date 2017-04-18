@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CED31600BFD65F60DFC0E3F4AFB6A3B5BD1CAD2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CA128DDC0772E71C3D59BFE5791EF86198947A33" : 9223372036854775807,
+    "CED31600BFD65F60DFC0E3F4AFB6A3B5BD1CAD2C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "64BA698D-8200-47D9-8DDF-12B9B6850D86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CA128DDC0772E71C3D59BFE5791EF86198947A33" : "",
+    "CED31600BFD65F60DFC0E3F4AFB6A3B5BD1CAD2C" : "ToDoListApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ToDoListApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ToDoListApp\/ToDoListApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gidpfeffer\/EggTimerApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA128DDC0772E71C3D59BFE5791EF86198947A33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gidpfeffer\/ToDoListApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CED31600BFD65F60DFC0E3F4AFB6A3B5BD1CAD2C"
+    }
+  ]
+}
